@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: ee10c4bc9f5ae5544a46f1554e412f91
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Manbow
+  fontNames:
+  - Manbow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0d0d9c01002dee44ca74e046bd2010c9, type: 3}
+  - {fileID: 12800000, guid: 9622e5932841d4b4b8b553a693eb2f9f, type: 3}
+  - {fileID: 12800000, guid: 55eb09c61897b36428ac6e3b7276fe28, type: 3}
+  - {fileID: 12800000, guid: 1c6acbc9cdfaffb44ba70d87950e1e8e, type: 3}
+  - {fileID: 12800000, guid: 1eb1fe9bc72f3ca4b8e9fa77ef7dbc21, type: 3}
+  - {fileID: 12800000, guid: a9b719cb84817f747a122439a571fbea, type: 3}
+  - {fileID: 12800000, guid: c6d09f6dec26d654196a8696520c6f3a, type: 3}
+  - {fileID: 12800000, guid: 80d1e59fe92049646b8685375198ccf0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
